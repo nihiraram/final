@@ -21,13 +21,13 @@ $("#snooze").click(function() {
 
 $("#diffuse").click(function() {
 	$("#3").slideUp();
-	$("h1").delay("slow").text("12:07 pm");
+	$("h1").delay("slow").text("12:08 pm");
 	$("#4a").delay("slow").slideDown(20000);
 });
 
 $("#silent").click(function() {
 	$("#3").slideUp();
-	$("h1").delay("slow").text("12:07 pm");
+	$("h1").delay("slow").text("12:08 pm");
 	$("#4b").delay("slow").slideDown(20000);
 });
 
